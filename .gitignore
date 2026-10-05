@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+*-v1.*
+preview-*.jpg
